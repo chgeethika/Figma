@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <div class="Home" style="width: 273px; height: 482px; background: white">
   <img class="Image3" style="width: 273px; height: 482px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/273x482" />
   <div class="Rectangle1" style="width: 153px; height: 44px; left: 56px; top: 311px; position: absolute; background: #D93131"></div>
@@ -85,10 +86,11 @@ Figma
   <div class="ContactUsSec123GmailCom9632563624" style="width: 150px; left: 14px; top: 383px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">contact us<br/>sec123@gmail.com<br/>9632563624</div>
   <div class="ForAnyQueries" style="width: 131px; left: 14px; top: 364px; position: absolute; color: black; font-size: 16px; font-family: Inter; font-weight: 400; word-wrap: break-word">For any Queries:</div>
 </div>
-
+```
 
 ## OUTPUT:
 
+![Screenshot (451)](https://github.com/chgeethika/Figma/assets/142209368/75575b19-0716-4ed3-b17f-690539da4f50)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
